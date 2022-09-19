@@ -1,6 +1,6 @@
 
 
-# AngularFixerUpper
+# angular-fix-me
 
 This project was generated using [Nx](https://nx.dev).
 
